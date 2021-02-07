@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/projectSettingsUpdater.xml
+/.idea.codelab1-s21-Week1.iml
+/modules.xml
+# Datasource local storage ignored files
+/../../../../../../../../../:\Users\guisa\Documents\Game Studio Projects\codelab1-s21-Week1\.idea\.idea.codelab1-s21-Week1\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
